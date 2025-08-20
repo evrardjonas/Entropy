@@ -1,0 +1,11 @@
+{
+  "run_id": "2025-08-20T05-00-23Z",
+  "timestamp_utc": "2025-08-20T05:00:30Z",
+  "script": "entropy_pre.py",
+  "source_pgn": "C:\\Users\\Admin\\Documents\\entropie-echecs\\data\\PGN\\Magnus Carlsen_vs_Arjun Erigaisi_2024.08.08.pgn",
+  "analysis_frame": "pre",
+  "depth": 10,
+  "multipv": 10,
+  "beta_per_cp": 0.01,
+  "notes": "demo public pre-frame"
+}

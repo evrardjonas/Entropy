@@ -1,0 +1,10 @@
+{
+  "engine_name": "Stockfish 17",
+  "engine_author": "the Stockfish developers (see AUTHORS file)",
+  "engine_path": "C:\\Users\\Admin\\Documents\\entropie-echecs\\stockfish\\stockfish.exe",
+  "options": {
+    "Threads": 1,
+    "Hash": 256
+  },
+  "mate_cp_policy": "mate_score=1000"
+}
